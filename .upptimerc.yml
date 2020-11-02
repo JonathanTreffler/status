@@ -15,6 +15,6 @@ status-website:
   introMessage: 
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/$OWNER
