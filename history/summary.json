@@ -3,16 +3,16 @@
     "name": "jonathan-treffler.de",
     "url": "https://jonathan-treffler.de",
     "slug": "jonathan-treffler-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 70
   },
   {
     "name": "domspatzen-quantum.de",
     "url": "https://domspatzen-quantum.de",
     "slug": "domspatzen-quantum-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 90
   }
 ]
