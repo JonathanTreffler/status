@@ -13,8 +13,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [jonathan-treffler.de](https://jonathan-treffler.de) | 🟩 Up | [jonathan-treffler-de.yml](https://github.com/JonathanTreffler/status/commits/master/history/jonathan-treffler-de.yml) | <img alt="Response time graph" src="./graphs/jonathan-treffler-de.png" height="20"> 70ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJonathanTreffler%2Fstatus%2Fmaster%2Fapi%2Fjonathan-treffler-de%2Fuptime.json)
-| [domspatzen-quantum.de](https://domspatzen-quantum.de) | 🟩 Up | [domspatzen-quantum-de.yml](https://github.com/JonathanTreffler/status/commits/master/history/domspatzen-quantum-de.yml) | <img alt="Response time graph" src="./graphs/domspatzen-quantum-de.png" height="20"> 90ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJonathanTreffler%2Fstatus%2Fmaster%2Fapi%2Fdomspatzen-quantum-de%2Fuptime.json)
+| [jonathan-treffler.de](https://jonathan-treffler.de) | 🟩 Up | [jonathan-treffler-de.yml](https://github.com/JonathanTreffler/status/commits/master/history/jonathan-treffler-de.yml) | <img alt="Response time graph" src="./graphs/jonathan-treffler-de.png" height="20"> 108ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJonathanTreffler%2Fstatus%2Fmaster%2Fapi%2Fjonathan-treffler-de%2Fuptime.json)
+| [domspatzen-quantum.de](https://domspatzen-quantum.de) | 🟩 Up | [domspatzen-quantum-de.yml](https://github.com/JonathanTreffler/status/commits/master/history/domspatzen-quantum-de.yml) | <img alt="Response time graph" src="./graphs/domspatzen-quantum-de.png" height="20"> 156ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJonathanTreffler%2Fstatus%2Fmaster%2Fapi%2Fdomspatzen-quantum-de%2Fuptime.json)
 <!--end: status pages-->
 
 [**Visit our status website →**](https://JonathanTreffler.github.io/status/)
