@@ -6,6 +6,8 @@ sites:
     url: https://jonathan-treffler.de
   - name: domspatzen-quantum.de
     url: https://domspatzen-quantum.de
+  - name: Wann tritt Scheuer zurück
+    url: https://xn--wann-tritt-scheuer-zurck-htc.de/
 
 status-website:
   baseUrl: /status
