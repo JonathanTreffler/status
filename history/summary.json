@@ -5,7 +5,7 @@
     "slug": "jonathan-treffler-de",
     "status": "up",
     "uptime": "100.00",
-    "time": 256
+    "time": 258
   },
   {
     "name": "domspatzen-quantum.de",
@@ -13,7 +13,7 @@
     "slug": "domspatzen-quantum-de",
     "status": "up",
     "uptime": "100.00",
-    "time": 249
+    "time": 247
   },
   {
     "name": "Wann tritt Scheuer zurück",
@@ -21,6 +21,14 @@
     "slug": "wann-tritt-scheuer-zurueck",
     "status": "up",
     "uptime": "100.00",
-    "time": 369
+    "time": 388
+  },
+  {
+    "name": "FRACTAVA",
+    "url": "https://fractava.com",
+    "slug": "fractava",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 683
   }
 ]
