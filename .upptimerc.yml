@@ -8,6 +8,8 @@ sites:
     url: https://domspatzen-quantum.de
   - name: Wann tritt Scheuer zurück
     url: https://xn--wann-tritt-scheuer-zurck-htc.de/
+  - name: FRACTAVA
+    url: https://fractava.com
 
 status-website:
   baseUrl: /status
