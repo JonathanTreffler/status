@@ -1,7 +1,7 @@
 - url: https://jonathan-treffler.de
-- status: up
+- status: down
 - code: 200
-- responseTime: 269
-- lastUpdated: 2020-11-18T23:03:17.771Z
+- responseTime: 193
+- lastUpdated: 2020-11-19T06:50:21.078Z
 - startTime: 2020-11-02T16:05:14.512Z
 - generator: Upptime <https://github.com/upptime/upptime>
