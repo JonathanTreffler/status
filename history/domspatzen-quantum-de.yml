@@ -1,7 +1,7 @@
 - url: https://domspatzen-quantum.de
-- status: up
+- status: down
 - code: 200
-- responseTime: 277
-- lastUpdated: 2020-11-18T23:03:18.295Z
+- responseTime: 288
+- lastUpdated: 2020-11-19T06:50:24.042Z
 - startTime: 2020-11-02T16:05:15.523Z
 - generator: Upptime <https://github.com/upptime/upptime>
