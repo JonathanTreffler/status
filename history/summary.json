@@ -3,32 +3,32 @@
     "name": "jonathan-treffler.de",
     "url": "https://jonathan-treffler.de",
     "slug": "jonathan-treffler-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 271
+    "time": 270
   },
   {
     "name": "domspatzen-quantum.de",
     "url": "https://domspatzen-quantum.de",
     "slug": "domspatzen-quantum-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 262
+    "time": 259
   },
   {
     "name": "Wann tritt Scheuer zurück",
     "url": "https://xn--wann-tritt-scheuer-zurck-htc.de/",
     "slug": "wann-tritt-scheuer-zurueck",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 359
+    "time": 347
   },
   {
     "name": "FRACTAVA",
     "url": "https://fractava.com",
     "slug": "fractava",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 588
+    "time": 607
   }
 ]
