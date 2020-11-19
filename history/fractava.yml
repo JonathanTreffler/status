@@ -1,7 +1,7 @@
 - url: https://fractava.com
-- status: up
+- status: down
 - code: 200
-- responseTime: 498
-- lastUpdated: 2020-11-18T23:03:19.587Z
+- responseTime: 542
+- lastUpdated: 2020-11-19T06:50:29.913Z
 - startTime: 2020-11-16T13:36:42.497Z
 - generator: Upptime <https://github.com/upptime/upptime>
