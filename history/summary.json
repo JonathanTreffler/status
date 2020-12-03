@@ -5,7 +5,15 @@
     "slug": "jonathan-treffler-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 281
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 299,
+    "timeDay": 146,
+    "timeWeek": 273,
+    "timeMonth": 299,
+    "timeYear": 299
   },
   {
     "name": "domspatzen-quantum.de",
@@ -13,7 +21,15 @@
     "slug": "domspatzen-quantum-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 282
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 303,
+    "timeDay": 234,
+    "timeWeek": 292,
+    "timeMonth": 303,
+    "timeYear": 303
   },
   {
     "name": "Wann tritt Scheuer zurück",
@@ -21,7 +37,15 @@
     "slug": "wann-tritt-scheuer-zurueck",
     "status": "up",
     "uptime": "100.00%",
-    "time": 337
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 334,
+    "timeDay": 241,
+    "timeWeek": 310,
+    "timeMonth": 334,
+    "timeYear": 334
   },
   {
     "name": "FRACTAVA",
@@ -29,6 +53,14 @@
     "slug": "fractava",
     "status": "up",
     "uptime": "100.00%",
-    "time": 627
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 621,
+    "timeDay": 497,
+    "timeWeek": 603,
+    "timeMonth": 621,
+    "timeYear": 621
   }
 ]
