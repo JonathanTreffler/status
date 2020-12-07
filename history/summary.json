@@ -2,6 +2,7 @@
   {
     "name": "jonathan-treffler.de",
     "url": "https://jonathan-treffler.de",
+    "icon": "https://favicons.githubusercontent.com/jonathan-treffler.de",
     "slug": "jonathan-treffler-de",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 369,
-    "timeWeek": 213,
-    "timeMonth": 296,
-    "timeYear": 294
+    "timeDay": 282,
+    "timeWeek": 223,
+    "timeMonth": 291,
+    "timeYear": 294,
+    "dailyMinutesDown": {}
   },
   {
     "name": "domspatzen-quantum.de",
     "url": "https://domspatzen-quantum.de",
+    "icon": "https://favicons.githubusercontent.com/domspatzen-quantum.de",
     "slug": "domspatzen-quantum-de",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 268,
-    "timeWeek": 257,
-    "timeMonth": 295,
-    "timeYear": 298
+    "time": 296,
+    "timeDay": 210,
+    "timeWeek": 244,
+    "timeMonth": 289,
+    "timeYear": 296,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wann tritt Scheuer zurück",
     "url": "https://xn--wann-tritt-scheuer-zurck-htc.de/",
+    "icon": "https://favicons.githubusercontent.com/xn--wann-tritt-scheuer-zurck-htc.de",
     "slug": "wann-tritt-scheuer-zurueck",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 257,
-    "timeWeek": 275,
-    "timeMonth": 322,
-    "timeYear": 322
+    "time": 317,
+    "timeDay": 186,
+    "timeWeek": 242,
+    "timeMonth": 317,
+    "timeYear": 317,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FRACTAVA",
     "url": "https://fractava.com",
+    "icon": "https://favicons.githubusercontent.com/fractava.com",
     "slug": "fractava",
     "status": "up",
     "uptime": "100.00%",
@@ -58,9 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 607,
-    "timeDay": 494,
-    "timeWeek": 545,
+    "timeDay": 596,
+    "timeWeek": 548,
     "timeMonth": 607,
-    "timeYear": 607
+    "timeYear": 607,
+    "dailyMinutesDown": {}
   }
 ]
