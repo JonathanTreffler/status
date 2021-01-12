@@ -4,18 +4,20 @@
     "url": "https://jonathan-treffler.de",
     "icon": "https://favicons.githubusercontent.com/jonathan-treffler.de",
     "slug": "jonathan-treffler-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 244,
-    "timeWeek": 203,
-    "timeMonth": 212,
+    "timeDay": 259,
+    "timeWeek": 212,
+    "timeMonth": 214,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-12": 0
+    }
   },
   {
     "name": "domspatzen-quantum.de",
