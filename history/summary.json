@@ -4,9 +4,9 @@
     "url": "https://jonathan-treffler.de",
     "icon": "https://favicons.githubusercontent.com/jonathan-treffler.de",
     "slug": "jonathan-treffler-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,34 +15,38 @@
     "timeWeek": 300,
     "timeMonth": 298,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "domspatzen-quantum.de",
     "url": "https://domspatzen-quantum.de",
     "icon": "https://favicons.githubusercontent.com/domspatzen-quantum.de",
     "slug": "domspatzen-quantum-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
+    "time": 318,
     "timeDay": 254,
     "timeWeek": 321,
     "timeMonth": 317,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "Wann tritt Scheuer zurück",
     "url": "https://xn--wann-tritt-scheuer-zurck-htc.de/",
     "icon": "https://favicons.githubusercontent.com/xn--wann-tritt-scheuer-zurck-htc.de",
     "slug": "wann-tritt-scheuer-zurueck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 381,
     "timeMonth": 330,
     "timeYear": 324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   }
 ]
