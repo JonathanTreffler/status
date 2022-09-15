@@ -4,19 +4,19 @@
     "url": "https://jonathan-treffler.de",
     "icon": "https://favicons.githubusercontent.com/jonathan-treffler.de",
     "slug": "jonathan-treffler-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 233,
-    "timeWeek": 300,
-    "timeMonth": 298,
+    "timeDay": 198,
+    "timeWeek": 283,
+    "timeMonth": 294,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://domspatzen-quantum.de",
     "icon": "https://favicons.githubusercontent.com/domspatzen-quantum.de",
     "slug": "domspatzen-quantum-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 254,
-    "timeWeek": 321,
-    "timeMonth": 317,
+    "time": 317,
+    "timeDay": 198,
+    "timeWeek": 298,
+    "timeMonth": 311,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 25
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://xn--wann-tritt-scheuer-zurck-htc.de/",
     "icon": "https://favicons.githubusercontent.com/xn--wann-tritt-scheuer-zurck-htc.de",
     "slug": "wann-tritt-scheuer-zurueck",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 261,
-    "timeWeek": 381,
-    "timeMonth": 330,
+    "timeDay": 254,
+    "timeWeek": 364,
+    "timeMonth": 327,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 25
     }
   }
 ]
