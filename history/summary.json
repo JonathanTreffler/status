@@ -2,7 +2,7 @@
   {
     "name": "jonathan-treffler.de",
     "url": "https://jonathan-treffler.de",
-    "icon": "https://favicons.githubusercontent.com/jonathan-treffler.de",
+    "icon": "https://icons.duckduckgo.com/ip3/jonathan-treffler.de.ico",
     "slug": "jonathan-treffler-de",
     "status": "up",
     "uptime": "99.99%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 308,
-    "timeDay": 398,
-    "timeWeek": 334,
-    "timeMonth": 444,
-    "timeYear": 318,
+    "timeDay": 265,
+    "timeWeek": 302,
+    "timeMonth": 440,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2022-09-15": 40
     }
@@ -22,7 +22,7 @@
   {
     "name": "domspatzen-quantum.de",
     "url": "https://domspatzen-quantum.de",
-    "icon": "https://favicons.githubusercontent.com/domspatzen-quantum.de",
+    "icon": "https://icons.duckduckgo.com/ip3/domspatzen-quantum.de.ico",
     "slug": "domspatzen-quantum-de",
     "status": "up",
     "uptime": "99.99%",
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 317,
-    "timeDay": 500,
-    "timeWeek": 292,
-    "timeMonth": 294,
+    "time": 316,
+    "timeDay": 282,
+    "timeWeek": 310,
+    "timeMonth": 288,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2022-09-15": 40
@@ -42,7 +42,7 @@
   {
     "name": "Wann tritt Scheuer zurück",
     "url": "https://xn--wann-tritt-scheuer-zurck-htc.de/",
-    "icon": "https://favicons.githubusercontent.com/xn--wann-tritt-scheuer-zurck-htc.de",
+    "icon": "https://icons.duckduckgo.com/ip3/xn--wann-tritt-scheuer-zurck-htc.de.ico",
     "slug": "wann-tritt-scheuer-zurueck",
     "status": "up",
     "uptime": "99.99%",
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 319,
-    "timeDay": 576,
-    "timeWeek": 333,
+    "timeDay": 348,
+    "timeWeek": 348,
     "timeMonth": 322,
     "timeYear": 326,
     "dailyMinutesDown": {
