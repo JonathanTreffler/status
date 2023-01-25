@@ -6,9 +6,9 @@
     "slug": "jonathan-treffler-de",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 305,
     "timeDay": 179,
@@ -16,7 +16,7 @@
     "timeMonth": 273,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 13,
       "2022-09-15": 40
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://domspatzen-quantum.de",
     "icon": "https://icons.duckduckgo.com/ip3/domspatzen-quantum.de.ico",
     "slug": "domspatzen-quantum-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 313,
@@ -37,6 +37,7 @@
     "timeMonth": 291,
     "timeYear": 313,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-09-15": 40
     }
   },
@@ -45,9 +46,9 @@
     "url": "https://xn--wann-tritt-scheuer-zurck-htc.de/",
     "icon": "https://icons.duckduckgo.com/ip3/xn--wann-tritt-scheuer-zurck-htc.de.ico",
     "slug": "wann-tritt-scheuer-zurueck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -57,6 +58,7 @@
     "timeMonth": 304,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-09-15": 40
     }
   }
