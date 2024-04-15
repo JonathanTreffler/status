@@ -4,19 +4,19 @@
     "url": "https://jonathan-treffler.de",
     "icon": "https://icons.duckduckgo.com/ip3/jonathan-treffler.de.ico",
     "slug": "jonathan-treffler-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 617,
-    "timeWeek": 348,
-    "timeMonth": 270,
-    "timeYear": 277,
+    "time": 291,
+    "timeDay": 1391,
+    "timeWeek": 575,
+    "timeMonth": 331,
+    "timeYear": 282,
     "dailyMinutesDown": {
-      "2024-04-15": 0
+      "2024-04-15": 18
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-04-15": 608,
+      "2024-04-15": 627,
       "2024-04-14": 1440,
       "2024-04-13": 1440,
       "2024-04-12": 1440,
