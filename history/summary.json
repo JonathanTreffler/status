@@ -6,17 +6,16 @@
     "slug": "jonathan-treffler-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 302,
-    "timeDay": 258,
-    "timeWeek": 349,
-    "timeMonth": 328,
-    "timeYear": 314,
+    "timeDay": 375,
+    "timeWeek": 382,
+    "timeMonth": 336,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-10-03": 15,
       "2024-04-15": 18
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 298,
-    "timeWeek": 389,
+    "timeDay": 390,
+    "timeWeek": 409,
     "timeMonth": 338,
-    "timeYear": 317,
+    "timeYear": 318,
     "dailyMinutesDown": {}
   },
   {
@@ -44,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--wann-tritt-scheuer-zurck-htc.de.ico",
     "slug": "wann-tritt-scheuer-zurueck",
     "status": "down",
-    "uptime": "70.86%",
+    "uptime": "70.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -53,9 +52,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 314,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-10-03": 659,
+      "2024-10-04": 43,
+      "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
@@ -418,8 +418,7 @@
       "2023-10-09": 1440,
       "2023-10-08": 1440,
       "2023-10-07": 1440,
-      "2023-10-06": 1440,
-      "2023-10-05": 1440
+      "2023-10-06": 1440
     }
   }
 ]
