@@ -4,7 +4,7 @@
     "url": "https://jonathan-treffler.de",
     "icon": "https://icons.duckduckgo.com/ip3/jonathan-treffler.de.ico",
     "slug": "jonathan-treffler-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "97.61%",
     "uptimeWeek": "99.51%",
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2024-10-14": 774,
+      "2024-10-14": 824,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
