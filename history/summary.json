@@ -4,7 +4,7 @@
     "url": "https://jonathan-treffler.de",
     "icon": "https://icons.duckduckgo.com/ip3/jonathan-treffler.de.ico",
     "slug": "jonathan-treffler-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 924,
     "timeYear": 382,
     "dailyMinutesDown": {
+      "2024-10-24": 0,
       "2024-10-14": 34,
       "2024-10-09": 15,
       "2024-04-15": 18
@@ -45,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--wann-tritt-scheuer-zurck-htc.de.ico",
     "slug": "wann-tritt-scheuer-zurueck",
     "status": "down",
-    "uptime": "69.84%",
+    "uptime": "69.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -56,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-10-24": 44,
+      "2024-10-24": 954,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
