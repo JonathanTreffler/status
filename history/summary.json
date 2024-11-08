@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
-    "time": 375,
-    "timeDay": 433,
-    "timeWeek": 291,
-    "timeMonth": 1039,
-    "timeYear": 398,
+    "time": 376,
+    "timeDay": 470,
+    "timeWeek": 323,
+    "timeMonth": 1069,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-10-24": 21,
       "2024-10-14": 34,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 412,
-    "timeWeek": 342,
-    "timeMonth": 350,
-    "timeYear": 318,
+    "time": 316,
+    "timeDay": 734,
+    "timeWeek": 406,
+    "timeMonth": 362,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -46,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn--wann-tritt-scheuer-zurck-htc.de.ico",
     "slug": "wann-tritt-scheuer-zurueck",
     "status": "down",
-    "uptime": "69.17%",
+    "uptime": "69.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -55,9 +55,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 313,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-11-07": 43,
+      "2024-11-08": 43,
+      "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -420,8 +421,7 @@
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
-      "2023-11-10": 1440,
-      "2023-11-09": 1440
+      "2023-11-10": 1440
     }
   }
 ]
